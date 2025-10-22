@@ -1,6 +1,7 @@
 # Skillnari---AI-Powered-Skill-Diagnostic-Tool-
 **Project Context:** An AI-driven system for Maynooth University to identify students’ skill gaps and recommend targeted courses for clean-energy and smart-infrastructure careers. The project was developed for the Analytics Live (MI6228[B]) module at Maynooth University (2024-2025).
 ** Project Overview:** Skillnari is a data-driven application designed to help students, graduates, and professionals identify critical skill gaps and navigate personalized upskilling paths. The tool works by comparing a user’s self-reported skills against the requirements extracted from real-world job postings (specifically targeting the growing renewable energy, smart systems, and energy management sectors). It then recommends relevant courses from Coursera to address the identified gaps.
+
 **Technical Architecture:**
 The application is built on a modular, two-part architecture:
 1. Backend (Python/Flask): Handles all core logic, data processing, skill matching, and course recommendation via RESTful API endpoints.

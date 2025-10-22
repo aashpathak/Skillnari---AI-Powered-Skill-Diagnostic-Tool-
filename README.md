@@ -39,6 +39,6 @@ File Name | Type | Description |
 | `PosterMI6228_12A.pptx` | Poster | The visual poster summarizing the problem, solution, and future work for the **Skillnari** tool. |
 
 **Group Members**
-Ashutosh Vinay Pathak and Prashant Mishra
+Ashutosh Pathak and Prashant Mishra
 
 
